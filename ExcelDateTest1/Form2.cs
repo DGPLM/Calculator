@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ExcelDateTest1
+namespace Calculator
 {
     
     public partial class Form2 : Form

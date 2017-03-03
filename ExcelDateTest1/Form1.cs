@@ -14,7 +14,7 @@ using Microsoft.Office.Interop.Excel;
 using System.Runtime.InteropServices;
 
 
-namespace ExcelDateTest1
+namespace Calculator
 {
 
     public partial class Form1 : Form

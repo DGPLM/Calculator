@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using Microsoft.Office.Interop.Excel;
 using System.IO;
 
-namespace ExcelDateTest1
+namespace Calculator
 {
     public partial class Form3 : Form
     {

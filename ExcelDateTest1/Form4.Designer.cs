@@ -1,4 +1,4 @@
-﻿namespace ExcelDateTest1
+﻿namespace Calculator
 {
     partial class Form4
     {

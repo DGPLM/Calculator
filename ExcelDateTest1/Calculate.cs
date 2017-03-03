@@ -4,7 +4,7 @@ using System.Runtime.InteropServices;
 using System.IO;
 using System.Windows.Forms;
 
-namespace ExcelDateTest1
+namespace Calculator
 {
     //作者:陈继民
     //版本号：v2.0
